@@ -1,0 +1,25 @@
+{
+  "name": "pjc-tool",
+  "version": "1.0.0",
+  "description": "init template for your project",
+  "bin": {
+    "pjc": "bin/pjc.js",
+    "pjc-init": "bin/pjc-init.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "graceful-copy": "^0.1.1",
+    "inquirer": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yac224@github.com/yac224/pjc-tool.git"
+  },
+  "author": "Alex Chen <yac224@yacoding.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yac224/pjc-tool/issues"
+  },
+  "homepage": "https://github.com/yac224/pjc-tool#readme"
+}
+
